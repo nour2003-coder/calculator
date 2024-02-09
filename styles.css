@@ -22,18 +22,18 @@ body {
 }
 
 .clear {
-  width: 160px;
-  height: 40px;
-  margin-right: 17px;
-  margin-top: 10px;
-  margin-bottom: 13px;
+  width: 163px;
+  height: 43px;
+  margin-right: 20px;
+  margin-top: 13px;
+  margin-bottom: 16px;
 }
 .num {
-  width: 41px;
-  height: 40px;
-  margin-right: 17px;
-  margin-top: 8px;
-  margin-bottom: 8px;
+  width: 44px;
+  height: 43px;
+  margin-right: 20px;
+  margin-top: 11px;
+  margin-bottom: 11px;
 }
 button {
   font-family: "Nanum Gothic Coding", monospace;
@@ -55,24 +55,24 @@ button:hover {
 }
 .ans,
 .op {
-  height: 40px;
-  margin-top: 10px;
-  margin-bottom: 16px;
+  height: 43px;
+  margin-top: 13px;
+  margin-bottom: 22px;
 }
 .op {
-  width: 55px;
+  width: 58px;
 }
 .div {
-  width: 55px;
-  height: 40px;
-  margin-top: 13px;
+  width: 58px;
+  height: 43px;
+  margin-top: 16px;
 }
 .egale {
-  width: 100px;
-  height: 40px;
-  margin-right: 17px;
-  margin-top: 8px;
-  margin-bottom: 8px;
+  width: 103px;
+  height: 43px;
+  margin-right: 20px;
+  margin-top: 11px;
+  margin-bottom: 11px;
 }
 .button {
   display: flex;
@@ -89,7 +89,7 @@ main {
   backdrop-filter: blur(6.4px);
   -webkit-backdrop-filter: blur(6.4px);
   border: 1px solid var(--main-color);
-  padding: 17px;
+  padding: 20px;
   border-radius: 10px;
 }
 .result {
@@ -99,7 +99,7 @@ main {
   font-size: 18px;
   display: flex;
   align-items: center;
-  margin-bottom: 15px;
+  margin-bottom: 21px;
   box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
   background: var(--main-color);
   border-radius: 16px;
@@ -107,7 +107,7 @@ main {
   backdrop-filter: blur(6.4px);
   -webkit-backdrop-filter: blur(6.4px);
   border: 1px solid var(--main-color);
-  width: 230px;
-  height: 100px;
+  width: 247px;
+  height: 103px;
   border-radius: 10px;
 }
