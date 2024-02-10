@@ -94,6 +94,7 @@ main {
   border-radius: 10px;
 }
 .result {
+  overflow: hidden;
   font-family: "Nanum Gothic Coding", monospace;
   font-weight: 200;
   font-style: normal;

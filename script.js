@@ -1,8 +1,4 @@
-
-
-
-
- let result = "";
+let result = "";
 let ans = 0;
 const r = document.getElementsByClassName("result")[0];
 const num1 = document.querySelectorAll(".num");
